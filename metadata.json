@@ -1,0 +1,13 @@
+{
+  "name": "BanglaVoice AI",
+  "description": "The ultimate AI Creator Toolkit for Bangla content creators. Generate realistic voices, viral titles, hooks, scripts, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Voice Generation",
+    "Social Media Scripting",
+    "Thumbnail & Title SEO",
+    "Viral Content Hooks"
+  ]
+}
